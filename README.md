@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Danish Mehmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p><img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIxanp6bDNkZzhjOHB1emNvdGtuMDk2MG1zM3E1NXhlbTEwcXg2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0f4FWVXd6fxxtELWD/giphy.gif" alt="syeddanishmehmood" /></p>
+
+<p><img align="left" src="https://media2.giphy.com/media/mcJohbfGPATW8/200.webp?cid=790b7611r3mtm3ep6mo2tu4gig33yni9szjx5aufi499ssba&ep=v1_gifs_trending&rid=200.webp&ct=g" width=490px height=480px alt="syeddanishmehmood" /></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeddanishmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="syeddanishmehmood" /> </p>
 
